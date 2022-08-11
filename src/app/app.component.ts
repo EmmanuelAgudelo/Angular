@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'My-store';
+
+  texto: string = 'Esto viene desde el componente padre';
 }
